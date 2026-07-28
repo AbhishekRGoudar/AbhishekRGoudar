@@ -20,20 +20,17 @@ Python | Git | GitHub | AI | Machine Learning | Automation
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekRGoudar\&show_icons=true\&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhishekRGoudar&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
----
+## 🔥 GitHub Streak
 
-### 🔥 GitHub Streak
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhishekRGoudar&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=AbhishekRGoudar&theme=tokyonight)
 
----
+## 🚀 Top Languages
 
-### 🚀 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekRGoudar\&layout=compact\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekRGoudar&layout=compact&theme=tokyonight)
 
 ---
 

@@ -53,22 +53,17 @@
 ![](https://github-profile-trophy.vercel.app/?username=AbhishekRGoudar&theme=tokyonight&no-frame=true&margin-w=15)
 
 ---
-
 ## 📊 GitHub Stats
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=AbhishekRGoudar&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api?username=AbhishekRGoudar&show_icons=true&theme=tokyonight&hide_border=true)
+## 💻 Top Languages
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbhishekRGoudar&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
 ![](https://streak-stats.demolab.com?user=AbhishekRGoudar&theme=tokyonight&hide_border=true)
-
----
-
-## 💻 Top Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekRGoudar&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 

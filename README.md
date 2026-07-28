@@ -27,8 +27,7 @@ Python | Git | GitHub | AI | Machine Learning | Automation
 ---
 
 ### 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AbhishekRGoudar\&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhishekRGoudar&show_icons=true&theme=tokyonight)
 
 ---
 
